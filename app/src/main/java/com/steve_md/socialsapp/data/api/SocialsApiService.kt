@@ -5,5 +5,5 @@ import retrofit2.http.GET
 
 interface SocialsApiService {
     @GET("/posts")
-    suspend fun getPosts() : List<Posts>
+    suspend fun getAllPosts() : List<Posts>
 }
