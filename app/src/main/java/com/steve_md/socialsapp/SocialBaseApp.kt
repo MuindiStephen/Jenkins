@@ -1,4 +1,7 @@
 package com.steve_md.socialsapp
 
-class SocialBaseApp {
-}
+import android.app.Application
+import dagger.hilt.android.HiltAndroidApp
+
+@HiltAndroidApp
+class SocialBaseApp : Application()

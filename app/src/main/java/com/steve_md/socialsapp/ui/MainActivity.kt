@@ -1,4 +1,4 @@
-package com.steve_md.socialsapp
+package com.steve_md.socialsapp.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

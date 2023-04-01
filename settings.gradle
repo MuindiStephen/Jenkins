@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "SocialsApp"
 include ':app'
+
+// Prefer settings.gradle repositories over build.gradle
